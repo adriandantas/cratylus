@@ -5,7 +5,9 @@
 [![node](https://img.shields.io/node/v/cratylus)](./packages/cli/package.json)
 [![license](https://img.shields.io/github/license/leclabs/cratylus)](./LICENSE)
 
-If you work with a coding agent, you've probably re-explained the same requirement in every session. You've watched it build something close to what you meant, but not quite it. And you've written long prompt files that still left it room to guess.
+**Stop re-explaining your requirements to your AI coding agent.**
+
+If you work with one, you know the drill. You explain the same requirement again every session. It builds something close to what you meant, but not quite it. And your long prompt files still leave it room to guess.
 
 Here's what cratylus gives you instead:
 
